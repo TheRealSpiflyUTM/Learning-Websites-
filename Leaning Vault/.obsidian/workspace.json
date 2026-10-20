@@ -25,10 +25,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/What I understand.excalidraw.md"
+                "file": "Excalidraw/CRUD Explenation.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "What I understand.excalidraw"
+              "title": "CRUD Explenation.excalidraw"
             }
           }
         ],
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "40e8c29b658964aa",
@@ -204,9 +203,9 @@
   },
   "active": "4dff2af79eb67ba9",
   "lastOpenFiles": [
+    "Excalidraw/What I understand.excalidraw.md",
     "Attachments/Pasted Image 20261019232516_941.png",
     "Excalidraw/CRUD Explenation.excalidraw.md",
-    "Excalidraw/What I understand.excalidraw.md",
     "Attachments/Pasted Image 20261019215444_562.png",
     "Attachments",
     "Chat GPT.md",
