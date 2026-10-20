@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "90bc564644a3d68d",
+    "type": "split",
+    "children": [
+      {
+        "id": "11bcf1e2363bdca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37bb5f95ae06f18a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/What I understand.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "What I understand.excalidraw"
+            }
+          },
+          {
+            "id": "4dff2af79eb67ba9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/What I understand.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "What I understand.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1fcd110cdb7ce08",
+    "type": "split",
+    "children": [
+      {
+        "id": "44e36dd9dced213b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe8735b024f77f5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2abe80f39ae4f6be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5b1e52d59c99c126",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "40e8c29b658964aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "94672cc606c1de34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ece88be5f9994bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Repos.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9c72bbc8621540b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Repos.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "713fed02bf559e9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ddbceb7cb49b5765",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1a68d8ba231e44f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "4dff2af79eb67ba9",
+  "lastOpenFiles": [
+    "Attachments/Pasted Image 20261019232516_941.png",
+    "Excalidraw/CRUD Explenation.excalidraw.md",
+    "Excalidraw/What I understand.excalidraw.md",
+    "Attachments/Pasted Image 20261019215444_562.png",
+    "Attachments",
+    "Chat GPT.md",
+    "How does it work.md",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries",
+    "Excalidraw",
+    "How to do shorts/Drawing 2026-10-02 23.03.01.excalidraw.md",
+    "Editing Songs List Links.md",
+    "Editing Songs.md",
+    "Video To Convert.md",
+    "Attachments/Pasted Image 20261005170724_650.png",
+    "Untitled.canvas",
+    "How to do shorts",
+    "Untitled.base",
+    "Future_Projects_Ideas/Issac_Search_Engine/Issac Search Engine.md",
+    "Youtube/Videos for youtube.md",
+    "Future_Projects_Ideas/Issac_Search_Engine/Implimentation for Issac Search Engine.md",
+    "Future_Projects_Ideas/Issac_Search_Engine/Research",
+    "task.md",
+    "Definitions/Bind of Issac.md",
+    "Future_Projects_Ideas/Clipping Tool/Clipping Tool.md",
+    "Definitions/face recognition.md",
+    "Future_Projects_Ideas/Clipping Tool/Random Ideas.md",
+    "Definitions/fast color change.md",
+    "Definitions/instant sound change.md",
+    "Definitions",
+    "Future_Projects_Ideas/Clipping Tool/color change.md",
+    "color change.md",
+    "Finished_Projecs",
+    "Future_Projects_Ideas/Issac_Search_Engine",
+    "Works/Git Hub Repos.md",
+    "Works/Repos.canvas",
+    "Works/Images/Pasted image 20260929170533.png",
+    "Works/Images/Pasted image 20260929170408.jpg",
+    "Works/Images/Pasted image 20260929164723.png",
+    "Pasted image 20260929164729.png",
+    "2026-09-28.md",
+    "Welcome.md"
+  ]
+}
