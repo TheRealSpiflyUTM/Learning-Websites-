@@ -1,20 +1,29 @@
 import { useState } from 'react'
 import './App.css'
-import Cursor from './Cursor'
+import Cursor from './Cursor/Cursor'
+import { getData } from './Api-Helpers/testMessaje.js';
 function App() {
+  const urlMessage = "/message/"
+  const [message , setMessage ] = useState("Press the button");
+  
+  async function changeMessage(){
+    try{
+      const result = await getData(urlMessage);
+      setMessage(result);
+    }
+    catch(error){
+      setMessage(`Sorry did noal doat: Error ${error.message}`);
+    }
+  }
 
   return (
     <>
 
       <Cursor/>
-      
-      <main>
-        <section id='home'></section>
-        <section id='about'>About you</section>
-        <section id='projects'>Projects</section>
-        <section id='work'>Your Work</section>
-        <section id='contact'>Contact details</section>
-      </main>
+      <h1>{message}</h1>
+      <button
+        onClick={() => changeMessage()}
+      >Press me</button>
     </>
   )
 }
